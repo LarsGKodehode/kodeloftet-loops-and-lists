@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.people-card {
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+  width: fit-content;
+}
